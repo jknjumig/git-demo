@@ -1,1 +1,2 @@
-This is the first feature branch test. 
+This is the first feature branch test.
+Adding more details for the first feature. 
